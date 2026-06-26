@@ -3,7 +3,7 @@ const GOLD = "#C9A961";
 export default function Contact() {
   const contact = {
     email: "monarc.store@gmail.com",
-    phone: "+1 555-123-4567",
+    phone: "01400294469",
     facebook: "https://facebook.com/monarc",
     instagram: "https://instagram.com/monarc",
     address: "123 Main St, Suite 100, Anytown",
